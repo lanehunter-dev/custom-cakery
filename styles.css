@@ -1,6 +1,7 @@
 /********************************* NATIVE ELS & GENERAL STYLES *********************************/
 
-html, body {
+html,
+body {
   color: #576574;
   font-size: 14px;
   margin: 0;
@@ -33,7 +34,9 @@ form {
   margin: 40px auto;
 }
 
-input[type="text"], input[type="number"], textarea {
+input[type="text"],
+input[type="number"],
+textarea {
   width: 100%;
 }
 
